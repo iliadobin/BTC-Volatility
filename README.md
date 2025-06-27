@@ -12,7 +12,7 @@
 
 ## 📚 Документация
 
-*   [`Документация`](https://github.com/iliadobin/BTC-Volatility/documentation.md)
+*   [`Документация`](https://github.com/iliadobin/BTC-Volatility/blob/b2f531c22991c0e93e3286a596daa15c8f4fcf2f/documentation.md)
 
 
 ## 🎥 Демонстрация работы
